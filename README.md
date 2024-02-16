@@ -1,4 +1,4 @@
-### Hi there 👋! This is Qin from Harrison's Team!!!
+### Hi there 👋! This is Qin
 
 * [Scout ML - Unleashing the Power of ML in Predicting Device Attributes](https://github.com/Qin-Yang-Assurant/Scout-ML)
 * [Android Battery Health Estimation](https://github.com/Qin-Yang-Assurant/Battery-Health-Prediction)
